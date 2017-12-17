@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-17T13:23:44+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b6ccac19-35fc-4a3f-9cf4-1988b22d3a9c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">11</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="6000"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Говорящая@">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE> Я работаю ведущим инженером технических средств охраны. В мои обязанности входит заключение договоров, поддержание работоспособности системы, консультирование по поводу охранных систем. Также мы выполняем монтажные работы на техни… технических средств охраны. Я именно занимаюсь подготовлением к техзаданиям, ведение переговоров э-э по осуществлению монтажа, ведение контроля за монтажниками, электромонтёрами по качеству выполнения работ. Также в мои обязанности входит отслеживание … работы ‘электромонтёров по обслуживанию технических средств охраны,  ə выезд на объекты с целью устранения неисправностей,  ə ə работа с объектами по… əм k! как сказать… осуществлению.. усовершенствованию охранной системы. əм Что мы ещё делаем? Мм.. Такжə.. Также мы  выезжаем на контрольные выезды, нажим… то есть в охранной систе.. системе есть така.. такие мероприятия, как əм отслеживание, как работает вневедомственная охрана, то есть я совместно с полицией выезжаю, нажимаю на кнопку тревожного вызова на объекте и отслеживаем, прош.. прошёл ли сигнал, за сколько времени выш.. выехала полиция на место работы əм и в случае непрохода сигнала уже мои электромонтёры выезжают на место и устраняют неисправность. ə Также каждəə.. й.. я веду график работ. На каждый объект мы составляем график ежемесячный, по которому мы в раз в квартал, либо раз в неделю, либо раз в месяц в зависимости от объёмов работ должны выехать и полностью проверить по договору работоспособность системы. Мм.. Также в н.. в наши обязанности входит подбор людей ə заказчиков, непосредственный обзвон заказчиков, предла.. предлагаем наши услуги по установке систем охранной сигнализации. əмм.. Что ещё у нас.. ə такого? А.. Также.. ə я контролирую электромонтёров, то есть собираю данные по ə оборудованию, которое им необходимо для работы, ə.. осуществляю контрооль за выполнением.. качества работ, и мм.. в общем, в общем, всё, наверное.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE> Последнее место работы- этə.. именно объект, с которым наша сотрудничала организация?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE> Сама организация… У нас объектов очень много, я вообще работала в Омске. У нас-ə такие крупные объекты, как Лента, нефтеперерабатывающий наш завод входит…əм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE> Омский, Омский.. нпр.. нефтеперерабатывающий завод, это из таких, крупных объектов, которые мы обслуживали.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE> Пять лет… В охране я пять лет, то есть я прошла стадию от простого инженера до управль…управляющего.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> əм..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Записывающий(за кадром)@">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Ну хорошоо, работа интересная, важная, полезная. Какое было последнее место, гдее Вы работали?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> Нуу.. Сама организация…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> Омский?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> Аа… как долго вы работали наа.. последнем месте?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Хорошоо.. Спасибо, что согласились участвовать ə.. в эксперименте, в записи..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
